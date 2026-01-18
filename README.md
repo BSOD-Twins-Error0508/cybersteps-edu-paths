@@ -86,18 +86,13 @@ The program prepares for **8 industry-recognized certifications**:
 ```
 cybersteps-edu-paths/
 │
-├── 📂 Module-01-Python-TF/
+├── 📂 Module-01-Fundamentals/
 │   └── 📂 Week-01/
-│       ├── 📂 PY-01-Getting-Started-with-Python/
-│       ├── 📂 PY-02-Variables-and-Types/
-│       ├── 📂 PY-03-IDE/
-│       ├── 📂 PY-04-Conditions/
-│       ├── 📂 TF-01-Terminal/
-│       └── 📂 TF-02-Editors-and-Shortcuts/
+│   └── 📂 Week-02/
+│   └── 📂 Week-03/
+│   └── 📂 Week-04/
 │
-├── 📂 Module-02-Networking/ (coming soon)
-├── 📂 Module-03-Linux/ (coming soon)
-├── 📂 Module-04-Cloud-Security/ (coming soon)
+├── 📂 Module-02-Topics/ (coming soon)
 │
 └── 📄 README.md
 ```
