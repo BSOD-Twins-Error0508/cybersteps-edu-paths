@@ -10,23 +10,23 @@
 
 ---
 
-*Dokumentation meiner Weiterbildung zum Cyber Security Analyst mit Schwerpunkt Cloud Security Engineering bei [Cybersteps](https://cybersteps.de)*
+*Documentation of my journey to become a Cyber Security Analyst with specialization in Cloud Security Engineering at [Cybersteps](https://cybersteps.de)*
 
 </div>
 
 ---
 
-## 🎯 Über das Programm
+## 🎯 About the Program
 
-**Cybersteps** ist ein AZAV-zertifizierter Anbieter für Cybersicherheitsschulungen mit über 10 Jahren Erfahrung. Das Programm basiert auf einem erfolgreichen militärischen Trainingsprogramm und wurde an die Bedürfnisse der Branche angepasst.
+**Cybersteps** is an AZAV-certified cybersecurity training provider with over 10 years of experience. The program is based on a successful military training curriculum adapted to meet industry demands.
 
 | | |
 |---|---|
-| 🏢 **Anbieter** | Cybersteps GmbH |
-| ⏱️ **Dauer** | 14 Monate (inkl. 2 Monate Praktikum) |
-| 📚 **Umfang** | 2.400+ akademische Stunden |
-| 🎓 **Abschluss** | Cyber Security Analyst |
-| ☁️ **Spezialisierung** | Cloud Security Engineering |
+| 🏢 **Provider** | Cybersteps GmbH |
+| ⏱️ **Duration** | 14 months (incl. 2-month internship) |
+| 📚 **Scope** | 2,400+ academic hours |
+| 🎓 **Qualification** | Cyber Security Analyst |
+| ☁️ **Specialization** | Cloud Security Engineering |
 
 ---
 
@@ -34,12 +34,12 @@
 
 <div align="center">
 
-### Programmierung & Scripting
+### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Betriebssysteme
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -53,7 +53,7 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### Entwicklung & Versionskontrolle
+### Development & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -62,12 +62,12 @@
 
 ---
 
-## 📜 Zertifizierungen
+## 📜 Certifications
 
-Das Programm bereitet auf **8 branchenweit anerkannte Zertifizierungen** vor:
+The program prepares for **8 industry-recognized certifications**:
 
-| Zertifizierung | Status | Bereich |
-|:---------------|:------:|:--------|
+| Certification | Status | Domain |
+|:--------------|:------:|:-------|
 | CompTIA Security+ | 🔲 | Security Fundamentals |
 | CompTIA Network+ | 🔲 | Networking |
 | Microsoft Azure Fundamentals (AZ-900) | 🔲 | Cloud |
@@ -77,11 +77,11 @@ Das Programm bereitet auf **8 branchenweit anerkannte Zertifizierungen** vor:
 | CompTIA CySA+ | 🔲 | Security Analytics |
 | CISSP Associate | 🔲 | Advanced Security |
 
-> ✅ = Bestanden | 📝 = In Bearbeitung | 🔲 = Ausstehend
+> ✅ = Passed | 📝 = In Progress | 🔲 = Pending
 
 ---
 
-## 📁 Repository-Struktur
+## 📁 Repository Structure
 
 ```
 cybersteps-edu-paths/
@@ -104,22 +104,22 @@ cybersteps-edu-paths/
 
 ---
 
-## 📊 Lernfortschritt
+## 📊 Learning Progress
 
-### Modul 1: Python & Technical Foundations
+### Module 1: Python & Technical Foundations
 
 ```
-Woche 01  ████████████████████ 100% ✅
-Woche 02  ░░░░░░░░░░░░░░░░░░░░   0%
-Woche 03  ░░░░░░░░░░░░░░░░░░░░   0%
-Woche 04  ░░░░░░░░░░░░░░░░░░░░   0%
+Week 01   ████████████████████ 100% ✅
+Week 02   ░░░░░░░░░░░░░░░░░░░░   0%
+Week 03   ░░░░░░░░░░░░░░░░░░░░   0%
+Week 04   ░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
 <details>
-<summary><b>📋 Detaillierter Fortschritt Woche 01</b></summary>
+<summary><b>📋 Detailed Progress - Week 01</b></summary>
 
-| Lektion | Thema | Status |
-|:--------|:------|:------:|
+| Lesson | Topic | Status |
+|:-------|:------|:------:|
 | PY-01 | Getting Started with Python | ✅ |
 | PY-02 | Variables and Types | ✅ |
 | PY-03 | IDE (VS Code) | ✅ |
@@ -131,13 +131,13 @@ Woche 04  ░░░░░░░░░░░░░░░░░░░░   0%
 
 ---
 
-## 🎯 Lernziele
+## 🎯 Learning Objectives
 
 ### Phase 1: Fundamentals
-- [x] IT-Grundlagen & Betriebssysteme
+- [x] IT Basics & Operating Systems
 - [x] Python Scripting Basics
 - [x] Terminal & CLI Navigation
-- [ ] Netzwerk-Grundlagen (TCP/IP, OSI)
+- [ ] Network Fundamentals (TCP/IP, OSI)
 
 ### Phase 2: Core Cybersecurity
 - [ ] Security Operations Center (SOC)
@@ -145,31 +145,31 @@ Woche 04  ░░░░░░░░░░░░░░░░░░░░   0%
 - [ ] Threat Detection & Response
 - [ ] Vulnerability Management
 
-### Phase 3: Cloud Security (Spezialisierung)
+### Phase 3: Cloud Security (Specialization)
 - [ ] Microsoft Azure Security
-- [ ] Cloud-native Architekturen
+- [ ] Cloud-native Architectures
 - [ ] Identity & Access Management
 - [ ] Cloud Compliance & Governance
 
-### Phase 4: Praktikum & Karriere
-- [ ] 2-monatiges Praktikum
-- [ ] Karriere-Coaching
-- [ ] Interview-Vorbereitung
+### Phase 4: Internship & Career
+- [ ] 2-month Internship
+- [ ] Career Coaching
+- [ ] Interview Preparation
 
 ---
 
-## 📚 Ressourcen
+## 📚 Resources
 
-| Ressource | Beschreibung |
-|:----------|:-------------|
-| [Cybersteps](https://cybersteps.de) | Offizieller Kursanbieter |
-| [Hack The Box](https://hackthebox.com) | Praktische Security Labs |
-| [TryHackMe](https://tryhackme.com) | Interaktives Lernen |
-| [Microsoft Learn](https://learn.microsoft.com) | Azure Zertifizierungen |
+| Resource | Description |
+|:---------|:------------|
+| [Cybersteps](https://cybersteps.de) | Official Training Provider |
+| [Hack The Box](https://hackthebox.com) | Hands-on Security Labs |
+| [TryHackMe](https://tryhackme.com) | Interactive Learning |
+| [Microsoft Learn](https://learn.microsoft.com) | Azure Certifications |
 
 ---
 
-## 🤝 Kontakt
+## 🤝 Connect
 
 <div align="center">
 
@@ -186,6 +186,6 @@ Woche 04  ░░░░░░░░░░░░░░░░░░░░   0%
 
 ---
 
-<sub>📅 Letzte Aktualisierung: Januar 2026 | 🚀 Powered by Cybersteps</sub>
+<sub>📅 Last Updated: January 2026 | 🚀 Powered by Cybersteps</sub>
 
 </div>
