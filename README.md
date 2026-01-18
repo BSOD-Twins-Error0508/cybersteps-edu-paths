@@ -1,6 +1,9 @@
 # Cybersecurity Learning Journey
 
-Started: April 2026
+## Timeline
+- Active period: June – October 2025
+- Pause: November 2025 – March 2026
+- Resuming: April 2026
 
 This repository contains my coursework, exercises, and projects from my cybersecurity studies.
 
