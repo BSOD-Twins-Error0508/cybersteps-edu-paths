@@ -1,6 +1,6 @@
 # 🐍 Text Processing Pipeline - Chain of Responsibility
 
-**Kurs:** Python OOP - Design Patterns | **Datum:** 20.01.2026
+**Kurs:** Cyber Security Analyst - Python Basics | **Datum:** 10.07.2025
 
 ---
 

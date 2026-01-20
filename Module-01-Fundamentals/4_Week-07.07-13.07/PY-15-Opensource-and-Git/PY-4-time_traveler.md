@@ -1,6 +1,6 @@
 # 🐍 Time Traveler
 
-**Kurs:** Git History Navigation | **Datum:** 20.01.2026
+**Kurs:** Cyber Security Analyst - Python Basics | **Datum:** 11.07.2025
 
 ---
 

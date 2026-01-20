@@ -1,6 +1,6 @@
 # 🐍 Write Lines to File
 
-**Kurs:** Python File I/O | **Datum:** 20.01.2026
+**Kurs:** Cyber Security Analyst - Python Basics | **Datum:** 07.07.2025
 
 ---
 

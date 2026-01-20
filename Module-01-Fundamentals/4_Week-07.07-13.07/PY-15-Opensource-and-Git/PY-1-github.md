@@ -1,6 +1,6 @@
 # 🐍 GitHub Initiation
 
-**Kurs:** GitHub Basics | **Datum:** 20.01.2026
+**Kurs:** Cyber Security Analyst - Python Basics | **Datum:** 10.07.2025
 
 ---
 

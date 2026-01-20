@@ -1,6 +1,6 @@
 # 🐍 Process Data List with Try-Except-Finally
 
-**Kurs:** Python Exception Handling | **Datum:** 20.01.2026
+**Kurs:** Cyber Security Analyst - Python Basics | **Datum:** 09.07.2025
 
 ---
 

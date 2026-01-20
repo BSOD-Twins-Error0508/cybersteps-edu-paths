@@ -1,6 +1,6 @@
 # 🐍 Book Class - Einfache Klasse mit Attributen
 
-**Kurs:** Python OOP Basics | **Datum:** 20.01.2026
+**Kurs:** Cyber Security Analyst - Python Basics | **Datum:** 09.07.2025
 
 ---
 
